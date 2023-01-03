@@ -26,7 +26,7 @@ Enter the values of the solutions - this is not space or newline sensitive, so u
 
 The solution will be printed, and then you can press any key to close the output window and end the program.
 
-![image](https://user-images.githubusercontent.com/20780491/210443243-7bd4435b-9adf-49e3-84c9-5e51b7bfa847.png)
+![image](https://user-images.githubusercontent.com/20780491/210443328-4e8c2e18-8d09-4e7f-a9ec-442449c05a98.png)
 
 ## Contributing
 
