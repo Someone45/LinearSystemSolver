@@ -10,21 +10,23 @@ Download the CPP file and run it within your own compiler, or download "LinearSy
 
 Here is an example of a 3x3 linear system that can be solved through the use of the program.
 
-[IMG]
+![image](https://user-images.githubusercontent.com/20780491/210443087-7580471c-51e7-4a2c-9162-595e859d734a.png)
 
 When first executed, you will be asked the size of the linear system. In this case it is 3, so input 3 and press enter.
 
-[IMG]
+![image](https://user-images.githubusercontent.com/20780491/210443119-eccdc6dc-68c2-498b-b7cc-e663811d4a1c.png)
 
 Enter the values of the system, excluding the solution - this is not space or newline sensitive, so use whatever you prefer..
 
-[IMG]
+![image](https://user-images.githubusercontent.com/20780491/210443136-ecc2ebc9-8792-4fdf-a4c5-b4a8be697a83.png)
 
 Enter the values of the solutions - this is not space or newline sensitive, so use whatever you prefer.
 
-[IMG]
+![image](https://user-images.githubusercontent.com/20780491/210443187-9c3a57c1-75fe-4b50-99b6-85a255d317d2.png)
 
 The solution will be printed, and then you can press any key to close the output window and end the program.
+
+![image](https://user-images.githubusercontent.com/20780491/210443243-7bd4435b-9adf-49e3-84c9-5e51b7bfa847.png)
 
 ## Contributing
 
