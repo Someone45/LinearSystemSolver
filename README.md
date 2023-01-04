@@ -1,6 +1,6 @@
 # Linear System Solver
 
-You can input any linear system of any NxN size, where N is => 2, to be solved.
+You can input any linear system of any NxN size, where N is ≥ 2, to be solved.
 
 ## Installation
 
